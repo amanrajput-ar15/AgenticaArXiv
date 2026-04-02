@@ -1,0 +1,19 @@
+# Web framework
+fastapi
+uvicorn
+pydantic
+python-dotenv==1.0.0
+
+# Gemini SDK
+google-generativeai==0.7.2
+
+# Vector store
+faiss-cpu
+numpy
+
+# Ingestion
+requests==2.31.0
+pypdf==3.17.4
+
+# Observability
+langfuse==2.36.0
