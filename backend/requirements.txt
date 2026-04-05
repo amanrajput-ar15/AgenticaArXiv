@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv==1.0.0
+google-generativeai==0.7.2
+openai>=1.30.0
+Pillow>=10.0.0
+pdf2image==1.17.0
+faiss-cpu
+numpy
+requests==2.31.0
+redis==5.0.1
+pymongo==4.6.1
+langfuse==2.36.0
